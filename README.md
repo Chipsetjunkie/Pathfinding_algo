@@ -2,6 +2,9 @@
 
 A visual representation of how certain path finding algorithms work.
 
+![](A_star.gif)
+
+
 ## Dependencies
 - Python 2.7.15
 - Pygame 1.9 
